@@ -1,16 +1,16 @@
 {
-    "name": "doocacommerce/integrator",
+    "name": "rgomesdn/integrator",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Doocacommerce\\Integrator\\": "src/"
+            "Rgomesdn\\Integrator\\": "src/"
         }
     },
     "authors": [
         {
             "name": "Rodrigo Gomes do Nascimento",
-            "email": "rodrigo@doocacommerce.com.br"
+            "email": "rgomesdn.dev@gmail.com"
         }
     ],
     "minimum-stability": "dev",
